@@ -1,0 +1,73 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    android:id="@+id/activity_add_delivery_address"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@color/white"
+    tools:context="pig.com.shohuodizi.AddDeliveryAddress">
+
+    <LinearLayout 
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:background="@color/coloradddelivery"
+        android:gravity="center"
+        android:orientation="horizontal">
+
+        <ImageButton
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:background="@null"
+            android:src="@mipmap/fanhui"
+            />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="@color/colorbai"
+            android:gravity="center"
+            android:layout_gravity="center"
+            android:paddingRight="50dp"
+            android:textSize="22dp"
+            android:text="地址列表"/>
+
+    </LinearLayout>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:background="@color/colorview"/>
+
+    <com.example.em.mi.pig.SwipeMenuListView_bao.SwipeMenuListView
+        android:id="@+id/add_delivery_swipemenuListview"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="5"
+        android:divider="@null"
+        android:background="@color/colorbai"/>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dip"
+        android:layout_gravity="bottom"
+        android:gravity="center"
+        android:layout_weight="1"
+        android:layout_marginBottom="20dp"
+        android:orientation="horizontal"
+        >
+
+        <Button
+            android:id="@+id/add_delivery_add_button"
+            android:layout_width="250dp"
+            android:layout_height="50dp"
+            android:textSize="18dp"
+            android:background="@drawable/add_shouhuodizhi_button"
+            android:textColor="@color/colorbai"
+            android:text="添加收货地址"/>
+
+    </LinearLayout>
+
+</LinearLayout>

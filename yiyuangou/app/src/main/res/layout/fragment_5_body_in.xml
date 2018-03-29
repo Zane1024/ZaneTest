@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:orientation="horizontal">
+
+        <LinearLayout
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:gravity="center"
+            android:orientation="vertical">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="5"
+                android:textColor="@color/subjectcolor"
+                android:textSize="18dp" />
+
+            <Button
+                android:layout_width="60dp"
+                android:layout_height="30dp"
+                android:background="@null"
+                android:drawableLeft="@mipmap/bg_integral"
+                android:text="积分" />
+        </LinearLayout>
+
+        <View
+            android:layout_width="1dp"
+            android:layout_height="40dp"
+            android:layout_marginTop="5dp"
+            android:background="@color/white" />
+
+        <LinearLayout
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:gravity="center"
+            android:orientation="vertical">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="9"
+                android:textColor="@color/subjectcolor"
+                android:textSize="18dp" />
+
+            <Button
+                android:layout_width="60dp"
+                android:layout_height="30dp"
+                android:background="@null"
+                android:drawableLeft="@mipmap/bg_integral"
+                android:text="红包" />
+        </LinearLayout>
+
+        <View
+            android:layout_width="1dp"
+            android:layout_height="40dp"
+            android:layout_marginTop="5dp"
+            android:background="@color/white" />
+
+        <LinearLayout
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:gravity="center"
+            android:orientation="vertical">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="0"
+                android:textColor="@color/subjectcolor"
+                android:textSize="18dp" />
+
+            <Button
+                android:layout_width="70dp"
+                android:layout_height="30dp"
+                android:background="@null"
+                android:drawableLeft="@mipmap/bg_integral"
+                android:text="欢乐豆" />
+        </LinearLayout>
+    </LinearLayout>
+</LinearLayout>

@@ -1,0 +1,514 @@
+[
+    {
+        "merged": "F:\\demo\\yiyuangou\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
+        "source": "F:\\demo\\yiyuangou\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "F:\\demo\\yiyuangou\\app\\build\\intermediates\\res\\merged\\debug\\layout\\commodity_details_2_yi.xml",
+        "source": "F:\\demo\\yiyuangou\\app\\src\\main\\res\\layout\\commodity_details_2_yi.xml"
+    },
+    {
+        "merged": "F:\\demo\\yiyuangou\\app\\build\\intermediates\\res\\merged\\debug\\layout\\register.xml",
+        "source": "F:\\demo\\yiyuangou\\app\\src\\main\\res\\layout\\register.xml"
+    },
+    {
+        "merged": "F:\\demo\\yiyuangou\\app\\build\\intermediates\\res\\merged\\debug\\layout\\myinfo.xml",
+        "source": "F:\\demo\\yiyuangou\\app\\src\\main\\res\\layout\\myinfo.xml"
+    },
+    {
+        "merged": "F:\\demo\\yiyuangou\\app\\build\\intermediates\\res\\merged\\debug\\layout\\m_canyu_dialogfragment_item.xml",
+        "source": "F:\\demo\\yiyuangou\\app\\src\\main\\res\\layout\\m_canyu_dialogfragment_item.xml"
+    },
+    {
+        "merged": "F:\\demo\\yiyuangou\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_subheader.xml",
+        "source": "F:\\demo\\yiyuangou\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.1.0\\res\\layout\\design_navigation_item_subheader.xml"
+    },
+    {
+        "merged": "F:\\demo\\yiyuangou\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar_include.xml",
+        "source": "F:\\demo\\yiyuangou\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.1.0\\res\\layout\\design_layout_snackbar_include.xml"
+    },
+    {
+        "merged": "F:\\demo\\yiyuangou\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_text.xml",
+        "source": "F:\\demo\\yiyuangou\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.1.0\\res\\layout\\design_layout_tab_text.xml"
+    },
+    {
+        "merged": "F:\\demo\\yiyuangou\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "F:\\demo\\yiyuangou\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "F:\\demo\\yiyuangou\\app\\build\\intermediates\\res\\merged\\debug\\layout\\home_vp_fragment_new.xml",
+        "source": "F:\\demo\\yiyuangou\\app\\src\\main\\res\\layout\\home_vp_fragment_new.xml"
+    },
+    {
+        "merged": "F:\\demo\\yiyuangou\\app\\build\\intermediates\\res\\merged\\debug\\layout\\lucky_record.xml",
+        "source": "F:\\demo\\yiyuangou\\app\\src\\main\\res\\layout\\lucky_record.xml"
+    },
+    {
+        "merged": "F:\\demo\\yiyuangou\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu.xml",
+        "source": "F:\\demo\\yiyuangou\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.1.0\\res\\layout\\design_navigation_menu.xml"
+    },
+    {
+        "merged": "F:\\demo\\yiyuangou\\app\\build\\intermediates\\res\\merged\\debug\\layout\\home_popularity_rv_item.xml",
+        "source": "F:\\demo\\yiyuangou\\app\\src\\main\\res\\layout\\home_popularity_rv_item.xml"
+    },
+    {
+        "merged": "F:\\demo\\yiyuangou\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "F:\\demo\\yiyuangou\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "F:\\demo\\yiyuangou\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_text_input_password_icon.xml",
+        "source": "F:\\demo\\yiyuangou\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.1.0\\res\\layout\\design_text_input_password_icon.xml"
+    },
+    {
+        "merged": "F:\\demo\\yiyuangou\\app\\build\\intermediates\\res\\merged\\debug\\layout\\add_dizhi_info.xml",
+        "source": "F:\\demo\\yiyuangou\\app\\src\\main\\res\\layout\\add_dizhi_info.xml"
+    },
+    {
+        "merged": "F:\\demo\\yiyuangou\\app\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "F:\\demo\\yiyuangou\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "F:\\demo\\yiyuangou\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_multichoice_material.xml",
+        "source": "F:\\demo\\yiyuangou\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\layout\\select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "F:\\demo\\yiyuangou\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_1.xml",
+        "source": "F:\\demo\\yiyuangou\\app\\src\\main\\res\\layout\\fragment_1.xml"
+    },
+    {
+        "merged": "F:\\demo\\yiyuangou\\app\\build\\intermediates\\res\\merged\\debug\\layout\\commodity_details_2_jin.xml",
+        "source": "F:\\demo\\yiyuangou\\app\\src\\main\\res\\layout\\commodity_details_2_jin.xml"
+    },
+    {
+        "merged": "F:\\demo\\yiyuangou\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "F:\\demo\\yiyuangou\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "F:\\demo\\yiyuangou\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_singlechoice_material.xml",
+        "source": "F:\\demo\\yiyuangou\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\layout\\select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "F:\\demo\\yiyuangou\\app\\build\\intermediates\\res\\merged\\debug\\layout\\home_recyclerview_item.xml",
+        "source": "F:\\demo\\yiyuangou\\app\\src\\main\\res\\layout\\home_recyclerview_item.xml"
+    },
+    {
+        "merged": "F:\\demo\\yiyuangou\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_5_the_sun.xml",
+        "source": "F:\\demo\\yiyuangou\\app\\src\\main\\res\\layout\\fragment_5_the_sun.xml"
+    },
+    {
+        "merged": "F:\\demo\\yiyuangou\\app\\build\\intermediates\\res\\merged\\debug\\layout\\zfb_childs_test.xml",
+        "source": "F:\\demo\\yiyuangou\\app\\src\\main\\res\\layout\\zfb_childs_test.xml"
+    },
+    {
+        "merged": "F:\\demo\\yiyuangou\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_4_nonempty.xml",
+        "source": "F:\\demo\\yiyuangou\\app\\src\\main\\res\\layout\\fragment_4_nonempty.xml"
+    },
+    {
+        "merged": "F:\\demo\\yiyuangou\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_action.xml",
+        "source": "F:\\demo\\yiyuangou\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\layout\\notification_action.xml"
+    },
+    {
+        "merged": "F:\\demo\\yiyuangou\\app\\build\\intermediates\\res\\merged\\debug\\layout\\view_amount.xml",
+        "source": "F:\\demo\\yiyuangou\\app\\src\\main\\res\\layout\\view_amount.xml"
+    },
+    {
+        "merged": "F:\\demo\\yiyuangou\\app\\build\\intermediates\\res\\merged\\debug\\layout\\float_layout.xml",
+        "source": "F:\\demo\\yiyuangou\\app\\src\\main\\res\\layout\\float_layout.xml"
+    },
+    {
+        "merged": "F:\\demo\\yiyuangou\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "F:\\demo\\yiyuangou\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "F:\\demo\\yiyuangou\\app\\build\\intermediates\\res\\merged\\debug\\layout\\commodity_details_button_liji.xml",
+        "source": "F:\\demo\\yiyuangou\\app\\src\\main\\res\\layout\\commodity_details_button_liji.xml"
+    },
+    {
+        "merged": "F:\\demo\\yiyuangou\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "F:\\demo\\yiyuangou\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "F:\\demo\\yiyuangou\\app\\build\\intermediates\\res\\merged\\debug\\layout\\commodity_details_4_item.xml",
+        "source": "F:\\demo\\yiyuangou\\app\\src\\main\\res\\layout\\commodity_details_4_item.xml"
+    },
+    {
+        "merged": "F:\\demo\\yiyuangou\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_chronometer.xml",
+        "source": "F:\\demo\\yiyuangou\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "F:\\demo\\yiyuangou\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "F:\\demo\\yiyuangou\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "F:\\demo\\yiyuangou\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media.xml",
+        "source": "F:\\demo\\yiyuangou\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "F:\\demo\\yiyuangou\\app\\build\\intermediates\\res\\merged\\debug\\layout\\editaddress.xml",
+        "source": "F:\\demo\\yiyuangou\\app\\src\\main\\res\\layout\\editaddress.xml"
+    },
+    {
+        "merged": "F:\\demo\\yiyuangou\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar.xml",
+        "source": "F:\\demo\\yiyuangou\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.1.0\\res\\layout\\design_layout_snackbar.xml"
+    },
+    {
+        "merged": "F:\\demo\\yiyuangou\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "F:\\demo\\yiyuangou\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "F:\\demo\\yiyuangou\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "F:\\demo\\yiyuangou\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "F:\\demo\\yiyuangou\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_icon_group.xml",
+        "source": "F:\\demo\\yiyuangou\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\layout\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "F:\\demo\\yiyuangou\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_news_item2.xml",
+        "source": "F:\\demo\\yiyuangou\\app\\src\\main\\res\\layout\\fragment_news_item2.xml"
+    },
+    {
+        "merged": "F:\\demo\\yiyuangou\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_item_material.xml",
+        "source": "F:\\demo\\yiyuangou\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\layout\\select_dialog_item_material.xml"
+    },
+    {
+        "merged": "F:\\demo\\yiyuangou\\app\\build\\intermediates\\res\\merged\\debug\\layout\\commodity_details_3_sm.xml",
+        "source": "F:\\demo\\yiyuangou\\app\\src\\main\\res\\layout\\commodity_details_3_sm.xml"
+    },
+    {
+        "merged": "F:\\demo\\yiyuangou\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_2.xml",
+        "source": "F:\\demo\\yiyuangou\\app\\src\\main\\res\\layout\\fragment_2.xml"
+    },
+    {
+        "merged": "F:\\demo\\yiyuangou\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_header_item_layout.xml",
+        "source": "F:\\demo\\yiyuangou\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\layout\\abc_popup_menu_header_item_layout.xml"
+    },
+    {
+        "merged": "F:\\demo\\yiyuangou\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu_item.xml",
+        "source": "F:\\demo\\yiyuangou\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.1.0\\res\\layout\\design_navigation_menu_item.xml"
+    },
+    {
+        "merged": "F:\\demo\\yiyuangou\\app\\build\\intermediates\\res\\merged\\debug\\layout\\commodity_details_button_canyu.xml",
+        "source": "F:\\demo\\yiyuangou\\app\\src\\main\\res\\layout\\commodity_details_button_canyu.xml"
+    },
+    {
+        "merged": "F:\\demo\\yiyuangou\\app\\build\\intermediates\\res\\merged\\debug\\layout\\commodity_details_5.xml",
+        "source": "F:\\demo\\yiyuangou\\app\\src\\main\\res\\layout\\commodity_details_5.xml"
+    },
+    {
+        "merged": "F:\\demo\\yiyuangou\\app\\build\\intermediates\\res\\merged\\debug\\layout\\participation_now_fragment.xml",
+        "source": "F:\\demo\\yiyuangou\\app\\src\\main\\res\\layout\\participation_now_fragment.xml"
+    },
+    {
+        "merged": "F:\\demo\\yiyuangou\\app\\build\\intermediates\\res\\merged\\debug\\layout\\class_fragment_listview.xml",
+        "source": "F:\\demo\\yiyuangou\\app\\src\\main\\res\\layout\\class_fragment_listview.xml"
+    },
+    {
+        "merged": "F:\\demo\\yiyuangou\\app\\build\\intermediates\\res\\merged\\debug\\layout\\search_listview_item.xml",
+        "source": "F:\\demo\\yiyuangou\\app\\src\\main\\res\\layout\\search_listview_item.xml"
+    },
+    {
+        "merged": "F:\\demo\\yiyuangou\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_menu_item_action_area.xml",
+        "source": "F:\\demo\\yiyuangou\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.1.0\\res\\layout\\design_menu_item_action_area.xml"
+    },
+    {
+        "merged": "F:\\demo\\yiyuangou\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
+        "source": "F:\\demo\\yiyuangou\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "F:\\demo\\yiyuangou\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_action_tombstone.xml",
+        "source": "F:\\demo\\yiyuangou\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\layout\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "F:\\demo\\yiyuangou\\app\\build\\intermediates\\res\\merged\\debug\\layout\\add_delivery_address.xml",
+        "source": "F:\\demo\\yiyuangou\\app\\src\\main\\res\\layout\\add_delivery_address.xml"
+    },
+    {
+        "merged": "F:\\demo\\yiyuangou\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_5_the_sun_item.xml",
+        "source": "F:\\demo\\yiyuangou\\app\\src\\main\\res\\layout\\fragment_5_the_sun_item.xml"
+    },
+    {
+        "merged": "F:\\demo\\yiyuangou\\app\\build\\intermediates\\res\\merged\\debug\\layout\\lunbo.xml",
+        "source": "F:\\demo\\yiyuangou\\app\\src\\main\\res\\layout\\lunbo.xml"
+    },
+    {
+        "merged": "F:\\demo\\yiyuangou\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_icon.xml",
+        "source": "F:\\demo\\yiyuangou\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.1.0\\res\\layout\\design_layout_tab_icon.xml"
+    },
+    {
+        "merged": "F:\\demo\\yiyuangou\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
+        "source": "F:\\demo\\yiyuangou\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "F:\\demo\\yiyuangou\\app\\build\\intermediates\\res\\merged\\debug\\layout\\home_vp_fragment_jindu.xml",
+        "source": "F:\\demo\\yiyuangou\\app\\src\\main\\res\\layout\\home_vp_fragment_jindu.xml"
+    },
+    {
+        "merged": "F:\\demo\\yiyuangou\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_5_body_in.xml",
+        "source": "F:\\demo\\yiyuangou\\app\\src\\main\\res\\layout\\fragment_5_body_in.xml"
+    },
+    {
+        "merged": "F:\\demo\\yiyuangou\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "F:\\demo\\yiyuangou\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "F:\\demo\\yiyuangou\\app\\build\\intermediates\\res\\merged\\debug\\layout\\zfb_confirmed.xml",
+        "source": "F:\\demo\\yiyuangou\\app\\src\\main\\res\\layout\\zfb_confirmed.xml"
+    },
+    {
+        "merged": "F:\\demo\\yiyuangou\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_4_empty.xml",
+        "source": "F:\\demo\\yiyuangou\\app\\src\\main\\res\\layout\\fragment_4_empty.xml"
+    },
+    {
+        "merged": "F:\\demo\\yiyuangou\\app\\build\\intermediates\\res\\merged\\debug\\layout\\chonzhi_edittext.xml",
+        "source": "F:\\demo\\yiyuangou\\app\\src\\main\\res\\layout\\chonzhi_edittext.xml"
+    },
+    {
+        "merged": "F:\\demo\\yiyuangou\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_inventory_recyclerview_item.xml",
+        "source": "F:\\demo\\yiyuangou\\app\\src\\main\\res\\layout\\fragment_inventory_recyclerview_item.xml"
+    },
+    {
+        "merged": "F:\\demo\\yiyuangou\\app\\build\\intermediates\\res\\merged\\debug\\layout\\home_vp_fragment_all.xml",
+        "source": "F:\\demo\\yiyuangou\\app\\src\\main\\res\\layout\\home_vp_fragment_all.xml"
+    },
+    {
+        "merged": "F:\\demo\\yiyuangou\\app\\build\\intermediates\\res\\merged\\debug\\layout\\about_us.xml",
+        "source": "F:\\demo\\yiyuangou\\app\\src\\main\\res\\layout\\about_us.xml"
+    },
+    {
+        "merged": "F:\\demo\\yiyuangou\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_toolbar.xml",
+        "source": "F:\\demo\\yiyuangou\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "F:\\demo\\yiyuangou\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
+        "source": "F:\\demo\\yiyuangou\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "F:\\demo\\yiyuangou\\app\\build\\intermediates\\res\\merged\\debug\\layout\\participation_all_fragment.xml",
+        "source": "F:\\demo\\yiyuangou\\app\\src\\main\\res\\layout\\participation_all_fragment.xml"
+    },
+    {
+        "merged": "F:\\demo\\yiyuangou\\app\\build\\intermediates\\res\\merged\\debug\\layout\\search_include2.xml",
+        "source": "F:\\demo\\yiyuangou\\app\\src\\main\\res\\layout\\search_include2.xml"
+    },
+    {
+        "merged": "F:\\demo\\yiyuangou\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_5.xml",
+        "source": "F:\\demo\\yiyuangou\\app\\src\\main\\res\\layout\\fragment_5.xml"
+    },
+    {
+        "merged": "F:\\demo\\yiyuangou\\app\\build\\intermediates\\res\\merged\\debug\\layout\\add_delivery_address_item.xml",
+        "source": "F:\\demo\\yiyuangou\\app\\src\\main\\res\\layout\\add_delivery_address_item.xml"
+    },
+    {
+        "merged": "F:\\demo\\yiyuangou\\app\\build\\intermediates\\res\\merged\\debug\\layout\\class_fragment_listview_item.xml",
+        "source": "F:\\demo\\yiyuangou\\app\\src\\main\\res\\layout\\class_fragment_listview_item.xml"
+    },
+    {
+        "merged": "F:\\demo\\yiyuangou\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_title_material.xml",
+        "source": "F:\\demo\\yiyuangou\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\layout\\abc_alert_dialog_title_material.xml"
+    },
+    {
+        "merged": "F:\\demo\\yiyuangou\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines_media.xml",
+        "source": "F:\\demo\\yiyuangou\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\layout\\notification_template_lines_media.xml"
+    },
+    {
+        "merged": "F:\\demo\\yiyuangou\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item.xml",
+        "source": "F:\\demo\\yiyuangou\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.1.0\\res\\layout\\design_navigation_item.xml"
+    },
+    {
+        "merged": "F:\\demo\\yiyuangou\\app\\build\\intermediates\\res\\merged\\debug\\layout\\commodity_details_1.xml",
+        "source": "F:\\demo\\yiyuangou\\app\\src\\main\\res\\layout\\commodity_details_1.xml"
+    },
+    {
+        "merged": "F:\\demo\\yiyuangou\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_button_bar_material.xml",
+        "source": "F:\\demo\\yiyuangou\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "F:\\demo\\yiyuangou\\app\\build\\intermediates\\res\\merged\\debug\\layout\\commodity_details_1_viewpager.xml",
+        "source": "F:\\demo\\yiyuangou\\app\\src\\main\\res\\layout\\commodity_details_1_viewpager.xml"
+    },
+    {
+        "merged": "F:\\demo\\yiyuangou\\app\\build\\intermediates\\res\\merged\\debug\\layout\\login.xml",
+        "source": "F:\\demo\\yiyuangou\\app\\src\\main\\res\\layout\\login.xml"
+    },
+    {
+        "merged": "F:\\demo\\yiyuangou\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_5_topups.xml",
+        "source": "F:\\demo\\yiyuangou\\app\\src\\main\\res\\layout\\fragment_5_topups.xml"
+    },
+    {
+        "merged": "F:\\demo\\yiyuangou\\app\\build\\intermediates\\res\\merged\\debug\\layout\\classlistview_item.xml",
+        "source": "F:\\demo\\yiyuangou\\app\\src\\main\\res\\layout\\classlistview_item.xml"
+    },
+    {
+        "merged": "F:\\demo\\yiyuangou\\app\\build\\intermediates\\res\\merged\\debug\\layout\\participation.xml",
+        "source": "F:\\demo\\yiyuangou\\app\\src\\main\\res\\layout\\participation.xml"
+    },
+    {
+        "merged": "F:\\demo\\yiyuangou\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_material.xml",
+        "source": "F:\\demo\\yiyuangou\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\layout\\abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "F:\\demo\\yiyuangou\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_news_item.xml",
+        "source": "F:\\demo\\yiyuangou\\app\\src\\main\\res\\layout\\fragment_news_item.xml"
+    },
+    {
+        "merged": "F:\\demo\\yiyuangou\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "F:\\demo\\yiyuangou\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "F:\\demo\\yiyuangou\\app\\build\\intermediates\\res\\merged\\debug\\layout\\tab_item_view.xml",
+        "source": "F:\\demo\\yiyuangou\\app\\src\\main\\res\\layout\\tab_item_view.xml"
+    },
+    {
+        "merged": "F:\\demo\\yiyuangou\\app\\build\\intermediates\\res\\merged\\debug\\layout\\search_include.xml",
+        "source": "F:\\demo\\yiyuangou\\app\\src\\main\\res\\layout\\search_include.xml"
+    },
+    {
+        "merged": "F:\\demo\\yiyuangou\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_4.xml",
+        "source": "F:\\demo\\yiyuangou\\app\\src\\main\\res\\layout\\fragment_4.xml"
+    },
+    {
+        "merged": "F:\\demo\\yiyuangou\\app\\build\\intermediates\\res\\merged\\debug\\layout\\all_participation_records.xml",
+        "source": "F:\\demo\\yiyuangou\\app\\src\\main\\res\\layout\\all_participation_records.xml"
+    },
+    {
+        "merged": "F:\\demo\\yiyuangou\\app\\build\\intermediates\\res\\merged\\debug\\layout\\retrieve.xml",
+        "source": "F:\\demo\\yiyuangou\\app\\src\\main\\res\\layout\\retrieve.xml"
+    },
+    {
+        "merged": "F:\\demo\\yiyuangou\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_bottom_sheet_dialog.xml",
+        "source": "F:\\demo\\yiyuangou\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.1.0\\res\\layout\\design_bottom_sheet_dialog.xml"
+    },
+    {
+        "merged": "F:\\demo\\yiyuangou\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "F:\\demo\\yiyuangou\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "F:\\demo\\yiyuangou\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
+        "source": "F:\\demo\\yiyuangou\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "F:\\demo\\yiyuangou\\app\\build\\intermediates\\res\\merged\\debug\\layout\\search_history_label_tv.xml",
+        "source": "F:\\demo\\yiyuangou\\app\\src\\main\\res\\layout\\search_history_label_tv.xml"
+    },
+    {
+        "merged": "F:\\demo\\yiyuangou\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_header.xml",
+        "source": "F:\\demo\\yiyuangou\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.1.0\\res\\layout\\design_navigation_item_header.xml"
+    },
+    {
+        "merged": "F:\\demo\\yiyuangou\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
+        "source": "F:\\demo\\yiyuangou\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "F:\\demo\\yiyuangou\\app\\build\\intermediates\\res\\merged\\debug\\layout\\lucky_record_item.xml",
+        "source": "F:\\demo\\yiyuangou\\app\\src\\main\\res\\layout\\lucky_record_item.xml"
+    },
+    {
+        "merged": "F:\\demo\\yiyuangou\\app\\build\\intermediates\\res\\merged\\debug\\layout\\commodity_details_4.xml",
+        "source": "F:\\demo\\yiyuangou\\app\\src\\main\\res\\layout\\commodity_details_4.xml"
+    },
+    {
+        "merged": "F:\\demo\\yiyuangou\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main_dialogfragment.xml",
+        "source": "F:\\demo\\yiyuangou\\app\\src\\main\\res\\layout\\main_dialogfragment.xml"
+    },
+    {
+        "merged": "F:\\demo\\yiyuangou\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "F:\\demo\\yiyuangou\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "F:\\demo\\yiyuangou\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_select_dialog_material.xml",
+        "source": "F:\\demo\\yiyuangou\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\layout\\abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "F:\\demo\\yiyuangou\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media_custom.xml",
+        "source": "F:\\demo\\yiyuangou\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\layout\\notification_template_media_custom.xml"
+    },
+    {
+        "merged": "F:\\demo\\yiyuangou\\app\\build\\intermediates\\res\\merged\\debug\\layout\\bangdingshouji.xml",
+        "source": "F:\\demo\\yiyuangou\\app\\src\\main\\res\\layout\\bangdingshouji.xml"
+    },
+    {
+        "merged": "F:\\demo\\yiyuangou\\app\\build\\intermediates\\res\\merged\\debug\\layout\\zfb_groups_test.xml",
+        "source": "F:\\demo\\yiyuangou\\app\\src\\main\\res\\layout\\zfb_groups_test.xml"
+    },
+    {
+        "merged": "F:\\demo\\yiyuangou\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_separator.xml",
+        "source": "F:\\demo\\yiyuangou\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.1.0\\res\\layout\\design_navigation_item_separator.xml"
+    },
+    {
+        "merged": "F:\\demo\\yiyuangou\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_5_body2_in.xml",
+        "source": "F:\\demo\\yiyuangou\\app\\src\\main\\res\\layout\\fragment_5_body2_in.xml"
+    },
+    {
+        "merged": "F:\\demo\\yiyuangou\\app\\build\\intermediates\\res\\merged\\debug\\layout\\my_the_news.xml",
+        "source": "F:\\demo\\yiyuangou\\app\\src\\main\\res\\layout\\my_the_news.xml"
+    },
+    {
+        "merged": "F:\\demo\\yiyuangou\\app\\build\\intermediates\\res\\merged\\debug\\layout\\participation_all_recyvlerview_item.xml",
+        "source": "F:\\demo\\yiyuangou\\app\\src\\main\\res\\layout\\participation_all_recyvlerview_item.xml"
+    },
+    {
+        "merged": "F:\\demo\\yiyuangou\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "F:\\demo\\yiyuangou\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\layout\\abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "F:\\demo\\yiyuangou\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_custom_big.xml",
+        "source": "F:\\demo\\yiyuangou\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\layout\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "F:\\demo\\yiyuangou\\app\\build\\intermediates\\res\\merged\\debug\\layout\\inventory_listview_item.xml",
+        "source": "F:\\demo\\yiyuangou\\app\\src\\main\\res\\layout\\inventory_listview_item.xml"
+    },
+    {
+        "merged": "F:\\demo\\yiyuangou\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_5_set.xml",
+        "source": "F:\\demo\\yiyuangou\\app\\src\\main\\res\\layout\\fragment_5_set.xml"
+    },
+    {
+        "merged": "F:\\demo\\yiyuangou\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
+        "source": "F:\\demo\\yiyuangou\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "F:\\demo\\yiyuangou\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_1_search.xml",
+        "source": "F:\\demo\\yiyuangou\\app\\src\\main\\res\\layout\\fragment_1_search.xml"
+    },
+    {
+        "merged": "F:\\demo\\yiyuangou\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_content_include.xml",
+        "source": "F:\\demo\\yiyuangou\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\layout\\abc_screen_content_include.xml"
+    },
+    {
+        "merged": "F:\\demo\\yiyuangou\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_3.xml",
+        "source": "F:\\demo\\yiyuangou\\app\\src\\main\\res\\layout\\fragment_3.xml"
+    },
+    {
+        "merged": "F:\\demo\\yiyuangou\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_dialog_title_material.xml",
+        "source": "F:\\demo\\yiyuangou\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\layout\\abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "F:\\demo\\yiyuangou\\app\\build\\intermediates\\res\\merged\\debug\\layout\\classification.xml",
+        "source": "F:\\demo\\yiyuangou\\app\\src\\main\\res\\layout\\classification.xml"
+    },
+    {
+        "merged": "F:\\demo\\yiyuangou\\app\\build\\intermediates\\res\\merged\\debug\\layout\\participation_now_include.xml",
+        "source": "F:\\demo\\yiyuangou\\app\\src\\main\\res\\layout\\participation_now_include.xml"
+    },
+    {
+        "merged": "F:\\demo\\yiyuangou\\app\\build\\intermediates\\res\\merged\\debug\\layout\\commodity_details_2_dai.xml",
+        "source": "F:\\demo\\yiyuangou\\app\\src\\main\\res\\layout\\commodity_details_2_dai.xml"
+    },
+    {
+        "merged": "F:\\demo\\yiyuangou\\app\\build\\intermediates\\res\\merged\\debug\\layout\\participation_open_fragment.xml",
+        "source": "F:\\demo\\yiyuangou\\app\\src\\main\\res\\layout\\participation_open_fragment.xml"
+    },
+    {
+        "merged": "F:\\demo\\yiyuangou\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_bottom_navigation_item.xml",
+        "source": "F:\\demo\\yiyuangou\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.1.0\\res\\layout\\design_bottom_navigation_item.xml"
+    },
+    {
+        "merged": "F:\\demo\\yiyuangou\\app\\build\\intermediates\\res\\merged\\debug\\layout\\welcome.xml",
+        "source": "F:\\demo\\yiyuangou\\app\\src\\main\\res\\layout\\welcome.xml"
+    },
+    {
+        "merged": "F:\\demo\\yiyuangou\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
+        "source": "F:\\demo\\yiyuangou\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\layout\\notification_template_part_time.xml"
+    }
+]

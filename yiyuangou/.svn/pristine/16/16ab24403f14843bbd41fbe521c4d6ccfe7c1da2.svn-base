@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white">
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:background="@color/darkorange">
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="取消"
+            android:textColor="@color/white"
+            android:textSize="20sp"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="10dp"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="我"
+            android:textColor="@color/white"
+            android:textSize="24sp"
+            android:layout_centerVertical="true"
+            android:layout_centerHorizontal="true"
+            />
+
+
+    </RelativeLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:layout_margin="20dp">
+    <EditText
+        android:layout_width="280dp"
+        android:layout_height="55dp"
+        android:drawableLeft="@mipmap/bg_user"
+        android:hint="@string/login_edit1"
+        android:textSize="16dp"
+        android:drawablePadding="5dp"
+        android:layout_gravity="center"/>
+    <EditText
+        android:layout_width="280dp"
+        android:layout_height="55dp"
+        android:drawableLeft="@mipmap/bg_passimg"
+        android:hint="@string/login_edit2"
+        android:textSize="16dp"
+        android:drawablePadding="5dp"
+
+        android:layout_gravity="center"/>
+        <TextView
+            android:id="@+id/login_retrieve"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/login_text"
+            android:textColor="#FF7D25"
+            android:layout_gravity="right"
+            android:layout_marginRight="40dp"/>
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+        
+        <Button
+            android:layout_width="280dp"
+            android:layout_height="wrap_content"
+            android:textColor="@color/white"
+            android:text="@string/login_btn1"
+            android:layout_gravity="center_horizontal"
+            android:textSize="20dp"
+            android:background="@drawable/btn_bolder"/>
+
+        <Button
+            android:id="@+id/login_fast_register"
+            android:layout_width="280dp"
+            android:layout_height="wrap_content"
+            android:textColor="@color/subjectcolor"
+            android:text="@string/login_btn2"
+            android:layout_gravity="center_horizontal"
+            android:textSize="20dp"
+            android:layout_marginTop="20dp"
+            android:background="@drawable/loginbtn_bolder"/>
+        
+    </LinearLayout>
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginTop="90dp">
+        <TextView
+            android:id="@+id/login_text2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/login_text2"
+            android:layout_centerHorizontal="true" />
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:layout_marginTop="40dp"
+            android:layout_centerHorizontal="true">
+        <Button
+            android:id="@+id/login_qq"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/login_btn3"
+            android:textColor="#A3A3A3"
+            android:drawablePadding="5dp"
+            android:background="@null"
+            android:drawableTop="@mipmap/qq"
+            />
+        <Button
+            android:layout_toRightOf="@+id/login_qq"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/login_btn4"
+            android:textColor="#A3A3A3"
+            android:drawablePadding="5dp"
+            android:background="@null"
+            android:drawableTop="@mipmap/weixin" />
+        </LinearLayout>
+
+    </RelativeLayout>
+</LinearLayout>

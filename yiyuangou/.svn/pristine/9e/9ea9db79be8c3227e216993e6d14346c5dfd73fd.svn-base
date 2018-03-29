@@ -1,0 +1,446 @@
+[
+    {
+        "merged": "F:\\demo\\yiyuangou\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tv_xiahuaxian.png",
+        "source": "F:\\demo\\yiyuangou\\app\\src\\main\\res\\drawable\\tv_xiahuaxian.png"
+    },
+    {
+        "merged": "F:\\demo\\yiyuangou\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "F:\\demo\\yiyuangou\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "F:\\demo\\yiyuangou\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\circle_corner_button_pressed.xml",
+        "source": "F:\\demo\\yiyuangou\\app\\src\\main\\res\\drawable\\circle_corner_button_pressed.xml"
+    },
+    {
+        "merged": "F:\\demo\\yiyuangou\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "F:\\demo\\yiyuangou\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "F:\\demo\\yiyuangou\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\login_btnstyle.xml",
+        "source": "F:\\demo\\yiyuangou\\app\\src\\main\\res\\drawable\\login_btnstyle.xml"
+    },
+    {
+        "merged": "F:\\demo\\yiyuangou\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\circle_corner_button.xml",
+        "source": "F:\\demo\\yiyuangou\\app\\src\\main\\res\\drawable\\circle_corner_button.xml"
+    },
+    {
+        "merged": "F:\\demo\\yiyuangou\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\dian.png",
+        "source": "F:\\demo\\yiyuangou\\app\\src\\main\\res\\drawable\\dian.png"
+    },
+    {
+        "merged": "F:\\demo\\yiyuangou\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_amount.xml",
+        "source": "F:\\demo\\yiyuangou\\app\\src\\main\\res\\drawable\\btn_amount.xml"
+    },
+    {
+        "merged": "F:\\demo\\yiyuangou\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\back_top.png",
+        "source": "F:\\demo\\yiyuangou\\app\\src\\main\\res\\drawable\\back_top.png"
+    },
+    {
+        "merged": "F:\\demo\\yiyuangou\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_vector_test.xml",
+        "source": "F:\\demo\\yiyuangou\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\drawable\\abc_vector_test.xml"
+    },
+    {
+        "merged": "F:\\demo\\yiyuangou\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "F:\\demo\\yiyuangou\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "F:\\demo\\yiyuangou\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "F:\\demo\\yiyuangou\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "F:\\demo\\yiyuangou\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\search_label.xml",
+        "source": "F:\\demo\\yiyuangou\\app\\src\\main\\res\\drawable\\search_label.xml"
+    },
+    {
+        "merged": "F:\\demo\\yiyuangou\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_search_bg.xml",
+        "source": "F:\\demo\\yiyuangou\\app\\src\\main\\res\\drawable\\btn_search_bg.xml"
+    },
+    {
+        "merged": "F:\\demo\\yiyuangou\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\home_corner_button.xml",
+        "source": "F:\\demo\\yiyuangou\\app\\src\\main\\res\\drawable\\home_corner_button.xml"
+    },
+    {
+        "merged": "F:\\demo\\yiyuangou\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\addshouhuodizhibutton_yuanjiao.xml",
+        "source": "F:\\demo\\yiyuangou\\app\\src\\main\\res\\drawable\\addshouhuodizhibutton_yuanjiao.xml"
+    },
+    {
+        "merged": "F:\\demo\\yiyuangou\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\main_tab_item_news.xml",
+        "source": "F:\\demo\\yiyuangou\\app\\src\\main\\res\\drawable\\main_tab_item_news.xml"
+    },
+    {
+        "merged": "F:\\demo\\yiyuangou\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\main_tab_item_down.xml",
+        "source": "F:\\demo\\yiyuangou\\app\\src\\main\\res\\drawable\\main_tab_item_down.xml"
+    },
+    {
+        "merged": "F:\\demo\\yiyuangou\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\reradio_style.xml",
+        "source": "F:\\demo\\yiyuangou\\app\\src\\main\\res\\drawable\\reradio_style.xml"
+    },
+    {
+        "merged": "F:\\demo\\yiyuangou\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "F:\\demo\\yiyuangou\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "F:\\demo\\yiyuangou\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "F:\\demo\\yiyuangou\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "F:\\demo\\yiyuangou\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\add_shouhuodizhi_button.xml",
+        "source": "F:\\demo\\yiyuangou\\app\\src\\main\\res\\drawable\\add_shouhuodizhi_button.xml"
+    },
+    {
+        "merged": "F:\\demo\\yiyuangou\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "F:\\demo\\yiyuangou\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "F:\\demo\\yiyuangou\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "F:\\demo\\yiyuangou\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "F:\\demo\\yiyuangou\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_menu_overflow_material.xml",
+        "source": "F:\\demo\\yiyuangou\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\drawable\\abc_ic_menu_overflow_material.xml"
+    },
+    {
+        "merged": "F:\\demo\\yiyuangou\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "F:\\demo\\yiyuangou\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "F:\\demo\\yiyuangou\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\home_corner_button_selector.xml",
+        "source": "F:\\demo\\yiyuangou\\app\\src\\main\\res\\drawable\\home_corner_button_selector.xml"
+    },
+    {
+        "merged": "F:\\demo\\yiyuangou\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tv_xiahuaxian2.png",
+        "source": "F:\\demo\\yiyuangou\\app\\src\\main\\res\\drawable\\tv_xiahuaxian2.png"
+    },
+    {
+        "merged": "F:\\demo\\yiyuangou\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\square_button1.png",
+        "source": "F:\\demo\\yiyuangou\\app\\src\\main\\res\\drawable\\square_button1.png"
+    },
+    {
+        "merged": "F:\\demo\\yiyuangou\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_snackbar_background.xml",
+        "source": "F:\\demo\\yiyuangou\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.1.0\\res\\drawable\\design_snackbar_background.xml"
+    },
+    {
+        "merged": "F:\\demo\\yiyuangou\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\main_tab_item_setting.xml",
+        "source": "F:\\demo\\yiyuangou\\app\\src\\main\\res\\drawable\\main_tab_item_setting.xml"
+    },
+    {
+        "merged": "F:\\demo\\yiyuangou\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_fab_background.xml",
+        "source": "F:\\demo\\yiyuangou\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.1.0\\res\\drawable\\design_fab_background.xml"
+    },
+    {
+        "merged": "F:\\demo\\yiyuangou\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "F:\\demo\\yiyuangou\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "F:\\demo\\yiyuangou\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\menu.png",
+        "source": "F:\\demo\\yiyuangou\\app\\src\\main\\res\\drawable\\menu.png"
+    },
+    {
+        "merged": "F:\\demo\\yiyuangou\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\square_button2.png",
+        "source": "F:\\demo\\yiyuangou\\app\\src\\main\\res\\drawable\\square_button2.png"
+    },
+    {
+        "merged": "F:\\demo\\yiyuangou\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\progressbar_color.xml",
+        "source": "F:\\demo\\yiyuangou\\app\\src\\main\\res\\drawable\\progressbar_color.xml"
+    },
+    {
+        "merged": "F:\\demo\\yiyuangou\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\main_tab_item_user.xml",
+        "source": "F:\\demo\\yiyuangou\\app\\src\\main\\res\\drawable\\main_tab_item_user.xml"
+    },
+    {
+        "merged": "F:\\demo\\yiyuangou\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\search_label_bg_press.xml",
+        "source": "F:\\demo\\yiyuangou\\app\\src\\main\\res\\drawable\\search_label_bg_press.xml"
+    },
+    {
+        "merged": "F:\\demo\\yiyuangou\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg_low.xml",
+        "source": "F:\\demo\\yiyuangou\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\drawable\\notification_bg_low.xml"
+    },
+    {
+        "merged": "F:\\demo\\yiyuangou\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\search_label_bg.xml",
+        "source": "F:\\demo\\yiyuangou\\app\\src\\main\\res\\drawable\\search_label_bg.xml"
+    },
+    {
+        "merged": "F:\\demo\\yiyuangou\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\dot_focused.xml",
+        "source": "F:\\demo\\yiyuangou\\app\\src\\main\\res\\drawable\\dot_focused.xml"
+    },
+    {
+        "merged": "F:\\demo\\yiyuangou\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\about_mian.png",
+        "source": "F:\\demo\\yiyuangou\\app\\src\\main\\res\\drawable\\about_mian.png"
+    },
+    {
+        "merged": "F:\\demo\\yiyuangou\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "F:\\demo\\yiyuangou\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "F:\\demo\\yiyuangou\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "F:\\demo\\yiyuangou\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "F:\\demo\\yiyuangou\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "F:\\demo\\yiyuangou\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "F:\\demo\\yiyuangou\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\smssdk_corners_bg_nor.xml",
+        "source": "F:\\demo\\yiyuangou\\app\\build\\intermediates\\exploded-aar\\SMSSDKGUI-2.1.4\\res\\drawable\\smssdk_corners_bg_nor.xml"
+    },
+    {
+        "merged": "F:\\demo\\yiyuangou\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_yuanjiao.xml",
+        "source": "F:\\demo\\yiyuangou\\app\\src\\main\\res\\drawable\\button_yuanjiao.xml"
+    },
+    {
+        "merged": "F:\\demo\\yiyuangou\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg.xml",
+        "source": "F:\\demo\\yiyuangou\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\drawable\\notification_bg.xml"
+    },
+    {
+        "merged": "F:\\demo\\yiyuangou\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\divider.xml",
+        "source": "F:\\demo\\yiyuangou\\app\\src\\main\\res\\drawable\\divider.xml"
+    },
+    {
+        "merged": "F:\\demo\\yiyuangou\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\smssdk_country_bg_selector.xml",
+        "source": "F:\\demo\\yiyuangou\\app\\build\\intermediates\\exploded-aar\\SMSSDKGUI-2.1.4\\res\\drawable\\smssdk_country_bg_selector.xml"
+    },
+    {
+        "merged": "F:\\demo\\yiyuangou\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\rounded_editview.xml",
+        "source": "F:\\demo\\yiyuangou\\app\\src\\main\\res\\drawable\\rounded_editview.xml"
+    },
+    {
+        "merged": "F:\\demo\\yiyuangou\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\radio.xml",
+        "source": "F:\\demo\\yiyuangou\\app\\src\\main\\res\\drawable\\radio.xml"
+    },
+    {
+        "merged": "F:\\demo\\yiyuangou\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\x.png",
+        "source": "F:\\demo\\yiyuangou\\app\\src\\main\\res\\drawable\\x.png"
+    },
+    {
+        "merged": "F:\\demo\\yiyuangou\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mynews_yuan_zhongjian.xml",
+        "source": "F:\\demo\\yiyuangou\\app\\src\\main\\res\\drawable\\mynews_yuan_zhongjian.xml"
+    },
+    {
+        "merged": "F:\\demo\\yiyuangou\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\square_button_style.xml",
+        "source": "F:\\demo\\yiyuangou\\app\\src\\main\\res\\drawable\\square_button_style.xml"
+    },
+    {
+        "merged": "F:\\demo\\yiyuangou\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "F:\\demo\\yiyuangou\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "F:\\demo\\yiyuangou\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_go_search_api_material.xml",
+        "source": "F:\\demo\\yiyuangou\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\drawable\\abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "F:\\demo\\yiyuangou\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_icon_background.xml",
+        "source": "F:\\demo\\yiyuangou\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\drawable\\notification_icon_background.xml"
+    },
+    {
+        "merged": "F:\\demo\\yiyuangou\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\smssdk_dialog_btn_back.xml",
+        "source": "F:\\demo\\yiyuangou\\app\\build\\intermediates\\exploded-aar\\SMSSDKGUI-2.1.4\\res\\drawable\\smssdk_dialog_btn_back.xml"
+    },
+    {
+        "merged": "F:\\demo\\yiyuangou\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\topupsbtn_bolder_t.xml",
+        "source": "F:\\demo\\yiyuangou\\app\\src\\main\\res\\drawable\\topupsbtn_bolder_t.xml"
+    },
+    {
+        "merged": "F:\\demo\\yiyuangou\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\guide_round_selector.xml",
+        "source": "F:\\demo\\yiyuangou\\app\\src\\main\\res\\drawable\\guide_round_selector.xml"
+    },
+    {
+        "merged": "F:\\demo\\yiyuangou\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "F:\\demo\\yiyuangou\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "F:\\demo\\yiyuangou\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\smssdk_country_group_scroll_down.xml",
+        "source": "F:\\demo\\yiyuangou\\app\\build\\intermediates\\exploded-aar\\SMSSDKGUI-2.1.4\\res\\drawable\\smssdk_country_group_scroll_down.xml"
+    },
+    {
+        "merged": "F:\\demo\\yiyuangou\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_bolder.xml",
+        "source": "F:\\demo\\yiyuangou\\app\\src\\main\\res\\drawable\\btn_bolder.xml"
+    },
+    {
+        "merged": "F:\\demo\\yiyuangou\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "F:\\demo\\yiyuangou\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "F:\\demo\\yiyuangou\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_material.xml",
+        "source": "F:\\demo\\yiyuangou\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\drawable\\abc_ratingbar_material.xml"
+    },
+    {
+        "merged": "F:\\demo\\yiyuangou\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\back.png",
+        "source": "F:\\demo\\yiyuangou\\app\\src\\main\\res\\drawable\\back.png"
+    },
+    {
+        "merged": "F:\\demo\\yiyuangou\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_tick_mark_material.xml",
+        "source": "F:\\demo\\yiyuangou\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\drawable\\abc_seekbar_tick_mark_material.xml"
+    },
+    {
+        "merged": "F:\\demo\\yiyuangou\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\about_bao.png",
+        "source": "F:\\demo\\yiyuangou\\app\\src\\main\\res\\drawable\\about_bao.png"
+    },
+    {
+        "merged": "F:\\demo\\yiyuangou\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\radius.xml",
+        "source": "F:\\demo\\yiyuangou\\app\\src\\main\\res\\drawable\\radius.xml"
+    },
+    {
+        "merged": "F:\\demo\\yiyuangou\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_ab_back_material.xml",
+        "source": "F:\\demo\\yiyuangou\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\drawable\\abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "F:\\demo\\yiyuangou\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_clear_material.xml",
+        "source": "F:\\demo\\yiyuangou\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\drawable\\abc_ic_clear_material.xml"
+    },
+    {
+        "merged": "F:\\demo\\yiyuangou\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_bottom_navigation_item_background.xml",
+        "source": "F:\\demo\\yiyuangou\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.1.0\\res\\drawable\\design_bottom_navigation_item_background.xml"
+    },
+    {
+        "merged": "F:\\demo\\yiyuangou\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\topupsbtn_bolder.xml",
+        "source": "F:\\demo\\yiyuangou\\app\\src\\main\\res\\drawable\\topupsbtn_bolder.xml"
+    },
+    {
+        "merged": "F:\\demo\\yiyuangou\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "F:\\demo\\yiyuangou\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "F:\\demo\\yiyuangou\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
+        "source": "F:\\demo\\yiyuangou\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "F:\\demo\\yiyuangou\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\smssdk_corners_bg.xml",
+        "source": "F:\\demo\\yiyuangou\\app\\build\\intermediates\\exploded-aar\\SMSSDKGUI-2.1.4\\res\\drawable\\smssdk_corners_bg.xml"
+    },
+    {
+        "merged": "F:\\demo\\yiyuangou\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\circle_corner_button_selector.xml",
+        "source": "F:\\demo\\yiyuangou\\app\\src\\main\\res\\drawable\\circle_corner_button_selector.xml"
+    },
+    {
+        "merged": "F:\\demo\\yiyuangou\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\imageview_yuanjiao.xml",
+        "source": "F:\\demo\\yiyuangou\\app\\src\\main\\res\\drawable\\imageview_yuanjiao.xml"
+    },
+    {
+        "merged": "F:\\demo\\yiyuangou\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "F:\\demo\\yiyuangou\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "F:\\demo\\yiyuangou\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "F:\\demo\\yiyuangou\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "F:\\demo\\yiyuangou\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\circle_corner_button_frame.xml",
+        "source": "F:\\demo\\yiyuangou\\app\\src\\main\\res\\drawable\\circle_corner_button_frame.xml"
+    },
+    {
+        "merged": "F:\\demo\\yiyuangou\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_amount_layout.xml",
+        "source": "F:\\demo\\yiyuangou\\app\\src\\main\\res\\drawable\\bg_amount_layout.xml"
+    },
+    {
+        "merged": "F:\\demo\\yiyuangou\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "F:\\demo\\yiyuangou\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml"
+    },
+    {
+        "merged": "F:\\demo\\yiyuangou\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\smssdk_btn_disenable.xml",
+        "source": "F:\\demo\\yiyuangou\\app\\build\\intermediates\\exploded-aar\\SMSSDKGUI-2.1.4\\res\\drawable\\smssdk_btn_disenable.xml"
+    },
+    {
+        "merged": "F:\\demo\\yiyuangou\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\smssdk_btn_enable.xml",
+        "source": "F:\\demo\\yiyuangou\\app\\build\\intermediates\\exploded-aar\\SMSSDKGUI-2.1.4\\res\\drawable\\smssdk_btn_enable.xml"
+    },
+    {
+        "merged": "F:\\demo\\yiyuangou\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\smssdk_corners_bg_pre.xml",
+        "source": "F:\\demo\\yiyuangou\\app\\build\\intermediates\\exploded-aar\\SMSSDKGUI-2.1.4\\res\\drawable\\smssdk_corners_bg_pre.xml"
+    },
+    {
+        "merged": "F:\\demo\\yiyuangou\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\dot_normal.xml",
+        "source": "F:\\demo\\yiyuangou\\app\\src\\main\\res\\drawable\\dot_normal.xml"
+    },
+    {
+        "merged": "F:\\demo\\yiyuangou\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\main_tab_item_home.xml",
+        "source": "F:\\demo\\yiyuangou\\app\\src\\main\\res\\drawable\\main_tab_item_home.xml"
+    },
+    {
+        "merged": "F:\\demo\\yiyuangou\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\toumingbg.png",
+        "source": "F:\\demo\\yiyuangou\\app\\src\\main\\res\\drawable\\toumingbg.png"
+    },
+    {
+        "merged": "F:\\demo\\yiyuangou\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_search_api_material.xml",
+        "source": "F:\\demo\\yiyuangou\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\drawable\\abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "F:\\demo\\yiyuangou\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_password_eye.xml",
+        "source": "F:\\demo\\yiyuangou\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.1.0\\res\\drawable\\design_password_eye.xml"
+    },
+    {
+        "merged": "F:\\demo\\yiyuangou\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\smssdk_country_group_scroll_up.xml",
+        "source": "F:\\demo\\yiyuangou\\app\\build\\intermediates\\exploded-aar\\SMSSDKGUI-2.1.4\\res\\drawable\\smssdk_country_group_scroll_up.xml"
+    },
+    {
+        "merged": "F:\\demo\\yiyuangou\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\navigation_empty_icon.xml",
+        "source": "F:\\demo\\yiyuangou\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.1.0\\res\\drawable\\navigation_empty_icon.xml"
+    },
+    {
+        "merged": "F:\\demo\\yiyuangou\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\about_zheng.png",
+        "source": "F:\\demo\\yiyuangou\\app\\src\\main\\res\\drawable\\about_zheng.png"
+    },
+    {
+        "merged": "F:\\demo\\yiyuangou\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "F:\\demo\\yiyuangou\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "F:\\demo\\yiyuangou\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\smssdk_edittext_bg_selector.xml",
+        "source": "F:\\demo\\yiyuangou\\app\\build\\intermediates\\exploded-aar\\SMSSDKGUI-2.1.4\\res\\drawable\\smssdk_edittext_bg_selector.xml"
+    },
+    {
+        "merged": "F:\\demo\\yiyuangou\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_tile_bg.xml",
+        "source": "F:\\demo\\yiyuangou\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\drawable\\notification_tile_bg.xml"
+    },
+    {
+        "merged": "F:\\demo\\yiyuangou\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\about_logo.png",
+        "source": "F:\\demo\\yiyuangou\\app\\src\\main\\res\\drawable\\about_logo.png"
+    },
+    {
+        "merged": "F:\\demo\\yiyuangou\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\home_corner_button_pressed.xml",
+        "source": "F:\\demo\\yiyuangou\\app\\src\\main\\res\\drawable\\home_corner_button_pressed.xml"
+    },
+    {
+        "merged": "F:\\demo\\yiyuangou\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\apple2.png",
+        "source": "F:\\demo\\yiyuangou\\app\\src\\main\\res\\drawable\\apple2.png"
+    },
+    {
+        "merged": "F:\\demo\\yiyuangou\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_voice_search_api_material.xml",
+        "source": "F:\\demo\\yiyuangou\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\drawable\\abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "F:\\demo\\yiyuangou\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\about_gong.png",
+        "source": "F:\\demo\\yiyuangou\\app\\src\\main\\res\\drawable\\about_gong.png"
+    },
+    {
+        "merged": "F:\\demo\\yiyuangou\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "F:\\demo\\yiyuangou\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "F:\\demo\\yiyuangou\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\loginbtn_bolder.xml",
+        "source": "F:\\demo\\yiyuangou\\app\\src\\main\\res\\drawable\\loginbtn_bolder.xml"
+    },
+    {
+        "merged": "F:\\demo\\yiyuangou\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\expandablelistview_change.xml",
+        "source": "F:\\demo\\yiyuangou\\app\\src\\main\\res\\drawable\\expandablelistview_change.xml"
+    },
+    {
+        "merged": "F:\\demo\\yiyuangou\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\apple.png",
+        "source": "F:\\demo\\yiyuangou\\app\\src\\main\\res\\drawable\\apple.png"
+    },
+    {
+        "merged": "F:\\demo\\yiyuangou\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\main_tab_item_bg.xml",
+        "source": "F:\\demo\\yiyuangou\\app\\src\\main\\res\\drawable\\main_tab_item_bg.xml"
+    },
+    {
+        "merged": "F:\\demo\\yiyuangou\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "F:\\demo\\yiyuangou\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "F:\\demo\\yiyuangou\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background.xml",
+        "source": "F:\\demo\\yiyuangou\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\drawable\\abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "F:\\demo\\yiyuangou\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\commoditydetail_yuanjiao.xml",
+        "source": "F:\\demo\\yiyuangou\\app\\src\\main\\res\\drawable\\commoditydetail_yuanjiao.xml"
+    }
+]

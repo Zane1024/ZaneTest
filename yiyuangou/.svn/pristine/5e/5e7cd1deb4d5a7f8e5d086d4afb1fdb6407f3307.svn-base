@@ -1,0 +1,130 @@
+[
+    {
+        "merged": "F:\\demo\\yiyuangou\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\main_tab_item_down_normal.png",
+        "source": "F:\\demo\\yiyuangou\\app\\src\\main\\res\\mipmap-hdpi\\main_tab_item_down_normal.png"
+    },
+    {
+        "merged": "F:\\demo\\yiyuangou\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\main_tab_item_news_normal.png",
+        "source": "F:\\demo\\yiyuangou\\app\\src\\main\\res\\mipmap-hdpi\\main_tab_item_news_normal.png"
+    },
+    {
+        "merged": "F:\\demo\\yiyuangou\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\main_tab_item_setting_normal.png",
+        "source": "F:\\demo\\yiyuangou\\app\\src\\main\\res\\mipmap-hdpi\\main_tab_item_setting_normal.png"
+    },
+    {
+        "merged": "F:\\demo\\yiyuangou\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\soso.png",
+        "source": "F:\\demo\\yiyuangou\\app\\src\\main\\res\\mipmap-hdpi\\soso.png"
+    },
+    {
+        "merged": "F:\\demo\\yiyuangou\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\bg_1.png",
+        "source": "F:\\demo\\yiyuangou\\app\\src\\main\\res\\mipmap-hdpi\\bg_1.png"
+    },
+    {
+        "merged": "F:\\demo\\yiyuangou\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\main_tab_item_home_normal.png",
+        "source": "F:\\demo\\yiyuangou\\app\\src\\main\\res\\mipmap-hdpi\\main_tab_item_home_normal.png"
+    },
+    {
+        "merged": "F:\\demo\\yiyuangou\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\bg_set.png",
+        "source": "F:\\demo\\yiyuangou\\app\\src\\main\\res\\mipmap-hdpi\\bg_set.png"
+    },
+    {
+        "merged": "F:\\demo\\yiyuangou\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\bg_4.png",
+        "source": "F:\\demo\\yiyuangou\\app\\src\\main\\res\\mipmap-hdpi\\bg_4.png"
+    },
+    {
+        "merged": "F:\\demo\\yiyuangou\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\main_tab_item_user_focus.png",
+        "source": "F:\\demo\\yiyuangou\\app\\src\\main\\res\\mipmap-hdpi\\main_tab_item_user_focus.png"
+    },
+    {
+        "merged": "F:\\demo\\yiyuangou\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\main_tab_item_bg_normal.png",
+        "source": "F:\\demo\\yiyuangou\\app\\src\\main\\res\\mipmap-hdpi\\main_tab_item_bg_normal.png"
+    },
+    {
+        "merged": "F:\\demo\\yiyuangou\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\bg_3.png",
+        "source": "F:\\demo\\yiyuangou\\app\\src\\main\\res\\mipmap-hdpi\\bg_3.png"
+    },
+    {
+        "merged": "F:\\demo\\yiyuangou\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\ic_launcher_round.png",
+        "source": "F:\\demo\\yiyuangou\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "F:\\demo\\yiyuangou\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\main_tab_item_down_focus.png",
+        "source": "F:\\demo\\yiyuangou\\app\\src\\main\\res\\mipmap-hdpi\\main_tab_item_down_focus.png"
+    },
+    {
+        "merged": "F:\\demo\\yiyuangou\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\img2.png",
+        "source": "F:\\demo\\yiyuangou\\app\\src\\main\\res\\mipmap-hdpi\\img2.png"
+    },
+    {
+        "merged": "F:\\demo\\yiyuangou\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\qiandao.png",
+        "source": "F:\\demo\\yiyuangou\\app\\src\\main\\res\\mipmap-hdpi\\qiandao.png"
+    },
+    {
+        "merged": "F:\\demo\\yiyuangou\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\liwu.png",
+        "source": "F:\\demo\\yiyuangou\\app\\src\\main\\res\\mipmap-hdpi\\liwu.png"
+    },
+    {
+        "merged": "F:\\demo\\yiyuangou\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\bg_integral.png",
+        "source": "F:\\demo\\yiyuangou\\app\\src\\main\\res\\mipmap-hdpi\\bg_integral.png"
+    },
+    {
+        "merged": "F:\\demo\\yiyuangou\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\main_tab_item_news_focus.png",
+        "source": "F:\\demo\\yiyuangou\\app\\src\\main\\res\\mipmap-hdpi\\main_tab_item_news_focus.png"
+    },
+    {
+        "merged": "F:\\demo\\yiyuangou\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\bg_2.png",
+        "source": "F:\\demo\\yiyuangou\\app\\src\\main\\res\\mipmap-hdpi\\bg_2.png"
+    },
+    {
+        "merged": "F:\\demo\\yiyuangou\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\bg_service.png",
+        "source": "F:\\demo\\yiyuangou\\app\\src\\main\\res\\mipmap-hdpi\\bg_service.png"
+    },
+    {
+        "merged": "F:\\demo\\yiyuangou\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\bg_myqq.png",
+        "source": "F:\\demo\\yiyuangou\\app\\src\\main\\res\\mipmap-hdpi\\bg_myqq.png"
+    },
+    {
+        "merged": "F:\\demo\\yiyuangou\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\main_tab_item_home_focus.png",
+        "source": "F:\\demo\\yiyuangou\\app\\src\\main\\res\\mipmap-hdpi\\main_tab_item_home_focus.png"
+    },
+    {
+        "merged": "F:\\demo\\yiyuangou\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\img1.png",
+        "source": "F:\\demo\\yiyuangou\\app\\src\\main\\res\\mipmap-hdpi\\img1.png"
+    },
+    {
+        "merged": "F:\\demo\\yiyuangou\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\newhand.png",
+        "source": "F:\\demo\\yiyuangou\\app\\src\\main\\res\\mipmap-hdpi\\newhand.png"
+    },
+    {
+        "merged": "F:\\demo\\yiyuangou\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\main_tab_item_user_normal.png",
+        "source": "F:\\demo\\yiyuangou\\app\\src\\main\\res\\mipmap-hdpi\\main_tab_item_user_normal.png"
+    },
+    {
+        "merged": "F:\\demo\\yiyuangou\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\bg_message.png",
+        "source": "F:\\demo\\yiyuangou\\app\\src\\main\\res\\mipmap-hdpi\\bg_message.png"
+    },
+    {
+        "merged": "F:\\demo\\yiyuangou\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\main_tab_item_bg_focus.png",
+        "source": "F:\\demo\\yiyuangou\\app\\src\\main\\res\\mipmap-hdpi\\main_tab_item_bg_focus.png"
+    },
+    {
+        "merged": "F:\\demo\\yiyuangou\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\zhuanpan.png",
+        "source": "F:\\demo\\yiyuangou\\app\\src\\main\\res\\mipmap-hdpi\\zhuanpan.png"
+    },
+    {
+        "merged": "F:\\demo\\yiyuangou\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\home.png",
+        "source": "F:\\demo\\yiyuangou\\app\\src\\main\\res\\mipmap-hdpi\\home.png"
+    },
+    {
+        "merged": "F:\\demo\\yiyuangou\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\main_tab_item_setting_focus.png",
+        "source": "F:\\demo\\yiyuangou\\app\\src\\main\\res\\mipmap-hdpi\\main_tab_item_setting_focus.png"
+    },
+    {
+        "merged": "F:\\demo\\yiyuangou\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\jinru.png",
+        "source": "F:\\demo\\yiyuangou\\app\\src\\main\\res\\mipmap-hdpi\\jinru.png"
+    },
+    {
+        "merged": "F:\\demo\\yiyuangou\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\ic_launcher.png",
+        "source": "F:\\demo\\yiyuangou\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    }
+]

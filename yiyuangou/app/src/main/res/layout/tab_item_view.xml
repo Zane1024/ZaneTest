@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:gravity="center"
+    android:orientation="vertical">
+
+    <ImageView
+        android:id="@+id/imageview"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:focusable="false"
+        android:padding="3.0dip"
+        android:layout_centerHorizontal="true"
+        android:src="@drawable/main_tab_item_home" />
+
+    <TextView
+        android:id="@+id/textview"
+        android:layout_centerHorizontal="true"
+        android:layout_below="@id/imageview"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+
+    <TextView
+        android:id="@+id/tab_hongdian"
+        android:layout_width="25dp"
+        android:layout_height="25dp"
+        android:gravity="center"
+        android:background="@drawable/dian"
+        android:visibility="gone"
+        android:layout_alignTop="@id/imageview"
+        android:textSize="12dp"
+        android:layout_marginLeft="42dip"
+        android:textColor="@color/white"/>
+</RelativeLayout>
