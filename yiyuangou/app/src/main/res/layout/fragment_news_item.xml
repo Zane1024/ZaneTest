@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:layout_width="match_parent"
+              android:layout_height="100dp"
+              android:orientation="vertical"
+    >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="120dp"
+        android:orientation="horizontal">
+
+        <ImageView
+            android:id="@+id/news_listitem_img"
+            android:layout_width="80dp"
+            android:layout_height="80dp"
+            android:layout_marginLeft="10dp"
+            android:layout_gravity="center"
+            android:src="@mipmap/img1"/>
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="30dp"
+            android:layout_marginTop="10dp"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/news_listitem_title"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textColor="#000000"
+                android:textSize="14dp"
+                android:text="吉列威锋双层旋转手动剃须刀"/>
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/NewsTitle"
+                android:layout_marginTop="10dp"
+                android:orientation="horizontal">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textColor="@color/dimgrey"
+                    android:textSize="10dp"
+                    android:text="期数："/>
+
+                <TextView
+                    android:id="@+id/news_listitem_number"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="10dp"
+                    android:textColor="@color/dimgrey"
+                    android:textSize="10dp"
+                    android:text="第170771期"/>
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:id="@+id/NewsItemLayout1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="2dp"
+                android:orientation="horizontal">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textColor="@color/dimgrey"
+                    android:textSize="10dp"
+                    android:text="获奖者："/>
+
+                <TextView
+                    android:id="@+id/news_listitem_winners"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="10dp"
+                    android:textColor="@color/dimgrey"
+                    android:textSize="10dp"
+                    android:text="面朝大海春暖花开"/>
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:id="@+id/NewsItemLayout2"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="2dp"
+                android:orientation="horizontal">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textColor="@color/dimgrey"
+                    android:textSize="10dp"
+                    android:text="本期参与："/>
+
+                <TextView
+                    android:id="@+id/news_listitem_peoplenumbers"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="10dp"
+                    android:textColor="@color/dimgrey"
+                    android:textSize="10dp"
+                    android:text="29人次"/>
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:id="@+id/NewsItemLayout3"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="2dp"
+                android:orientation="horizontal">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textColor="@color/dimgrey"
+                    android:textSize="10dp"
+                    android:text="幸运号码："/>
+
+                <TextView
+                    android:id="@+id/news_listitem_luckynumber"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="10dp"
+                    android:textColor="@color/red"
+                    android:textSize="10dp"
+                    android:text="1000026"/>
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:id="@+id/NewsItemLayout4"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="2dp"
+                android:orientation="horizontal">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textColor="@color/dimgrey"
+                    android:textSize="10dp"
+                    android:text="揭晓时间："/>
+
+                <TextView
+                    android:id="@+id/news_listitem_time"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="10dp"
+                    android:textColor="@color/dimgrey"
+                    android:textSize="10dp"
+                    android:text="2017-06-19 17:54:57"/>
+
+            </LinearLayout>
+
+            
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:layout_marginTop="8dp"
+        android:layout_marginLeft="20dp"
+        android:background="@color/lightgray">
+
+    </View>
+
+</LinearLayout>
+

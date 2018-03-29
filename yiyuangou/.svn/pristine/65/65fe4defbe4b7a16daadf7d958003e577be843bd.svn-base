@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--商品详情子界面   秒开秒发 到 过期揭晓-->
+<!--已经抢购的-->
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent"
+              android:orientation="vertical">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:orientation="horizontal">
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@mipmap/moren"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="【秒开秒发】淘宝卡50元  可充值可支付宝"/>
+
+    </LinearLayout>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="10dp"
+        android:text="淘宝卡50元 可兑换支付宝红包"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="10dp"
+        android:text="期号：173143"/>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginRight="10dp"
+        android:layout_marginLeft="10dp"
+        android:background="#e2e2e2"
+        android:orientation="horizontal">
+
+
+        <RelativeLayout
+            android:layout_width="80dp"
+            android:layout_height="80dp"
+            android:paddingTop="10dp"
+            android:paddingLeft="15dp"
+            >
+
+            <com.example.em.mi.JL.com.CircleImageView
+                android:layout_width="40dp"
+                android:layout_height="40dp"
+                android:src="@mipmap/test"/>
+
+            <ImageView
+                android:layout_width="10dp"
+                android:layout_height="10dp"
+                android:layout_marginTop="30dp"
+                android:layout_marginLeft="30dp"
+                android:src="@mipmap/vip5"
+                android:background="@null"/>
+
+        </RelativeLayout>
+
+        <LinearLayout
+            android:id="@+id/commoditylayout2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent">
+
+                <TextView
+                    android:id="@+id/commodity_2_yi_huodezhe"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="获得者：中部车送给老公"/>
+
+                <TextView
+                    android:id="@+id/commodity_2_yi_ip"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_below="@+id/commodity_2_yi_huodezhe"
+                    android:text="用户IP：202.118.74.249（.."/>
+
+                <ImageView
+                    android:layout_width="30dp"
+                    android:layout_height="30dp"
+                    android:layout_marginTop="5dp"
+                    android:layout_marginRight="10dp"
+                    android:layout_alignParentRight="true"
+                    android:src="@mipmap/yilingqu"/>
+
+                <TextView
+                    android:id="@+id/commodity_2_yi_id"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_below="@+id/commodity_2_yi_ip"
+                    android:text="用户ID：178801（唯一不变标识符）"/>
+
+                <LinearLayout
+                    android:id="@+id/commodity_2_yi_benqicanyu"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_below="@+id/commodity_2_yi_id"
+                    android:orientation="horizontal">
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="本期参与：6人次"/>
+
+                    <TextView
+                        android:layout_width="100dp"
+                        android:layout_height="20dp"
+                        android:layout_marginLeft="10dp"
+                        android:textColor="@color/colorPrimary"
+                        android:text="查看TA的号码"/>
+
+                </LinearLayout>
+
+                <TextView
+                    android:id="@+id/commodity_2_yi_jiexiao"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_below="@+id/commodity_2_yi_benqicanyu"
+                    android:text="揭晓时间：2017-06-26 09:08:38"/>
+
+            </RelativeLayout>
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:background="@color/coloradddelivery"
+        android:gravity="center_vertical"
+        android:layout_gravity="center"
+        android:layout_marginRight="8dp"
+        android:layout_marginLeft="8dp"
+        android:paddingRight="20dp"
+        android:orientation="horizontal">
+
+        <TextView
+            android:layout_width="100dp"
+            android:layout_height="wrap_content"
+            android:textColor="@color/colorbai"
+            android:layout_weight="1"
+            android:paddingLeft="20dp"
+            android:layout_gravity="center"
+            android:text="幸运号码：1000056"/>
+
+        <Button
+            android:layout_width="20dp"
+            android:layout_height="30dp"
+            android:layout_weight="1"
+            android:textSize="14dp"
+            android:textColor="@color/white"
+            android:background="@drawable/circle_corner_button_frame"
+            android:text="计算清单"/>
+
+    </LinearLayout>
+
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1px"
+        android:layout_marginTop="10dp"
+        android:layout_marginLeft="20dp"
+        android:background="@color/colorview"/>
+
+
+</LinearLayout>

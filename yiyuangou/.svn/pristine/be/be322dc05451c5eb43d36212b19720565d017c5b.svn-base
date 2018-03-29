@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent"
+              android:orientation="vertical"
+    android:background="@drawable/toumingbg"
+    >
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="80dp">
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="35dp"
+                android:background="@color/white"
+                android:layout_alignParentBottom="true">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerHorizontal="true"
+                    android:layout_centerVertical="true"
+                    android:background="@color/white"
+                    android:text="请选择参与人次"
+                    android:textColor="@color/black"/>
+
+                <ImageView
+                    android:layout_width="30dp"
+                    android:layout_height="30dp"
+                    android:layout_gravity="right"
+                    android:layout_alignParentRight="true"
+                    android:layout_centerVertical="true"
+                    android:src="@mipmap/cha"/>
+
+
+
+            </RelativeLayout>
+
+
+        <ImageView
+            android:layout_width="80dp"
+            android:layout_height="80dp"
+            android:layout_marginLeft="10dp"
+            android:paddingBottom="10dp"
+            android:src="@mipmap/bianxing" />
+
+
+
+
+
+
+    </RelativeLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:gravity="center_horizontal"
+        android:paddingTop="20dp"
+        android:orientation="vertical"
+        android:background="@color/bgwhlie">
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="40dp"
+            android:orientation="horizontal">
+
+            <com.example.em.mi.pig.DialogFragment_p.amount.AmountView
+                android:id="@+id/dialogfragment_amountview"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"/>
+
+
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="45dp"
+            android:orientation="horizontal"
+            android:paddingTop="10dp"
+            android:paddingLeft="10dp"
+            android:paddingRight="10dp">
+            <com.example.em.mi.Fragment_5.RadioGroupEx
+                android:id="@+id/dialogfragment_radio"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:orientation="horizontal">
+
+                <RadioButton
+                    android:id="@+id/dialogfragment_button5"
+                    android:layout_width="60dp"
+                    android:layout_height="35dp"
+                    android:layout_marginRight="10dp"
+                    android:background="@drawable/radio"
+                    android:button="@null"
+                    android:gravity="center"
+                    android:textColor="@color/black"
+                    android:text="5" />
+
+                <RadioButton
+                    android:id="@+id/dialogfragment_button10"
+                    android:layout_width="60dp"
+                    android:layout_height="35dp"
+                    android:layout_marginRight="10dp"
+                    android:background="@drawable/radio"
+                    android:button="@null"
+                    android:gravity="center"
+                    android:textColor="@color/black"
+                    android:text="10" />
+
+                <RadioButton
+                    android:id="@+id/dialogfragment_button50"
+                    android:layout_width="60dp"
+                    android:layout_height="35dp"
+                    android:layout_marginRight="10dp"
+                    android:background="@drawable/radio"
+                    android:button="@null"
+                    android:gravity="center"
+                    android:textColor="@color/black"
+                    android:text="50" />
+
+
+                <RadioButton
+                    android:id="@+id/dialogfragment_button100"
+                    android:layout_width="60dp"
+                    android:layout_height="35dp"
+                    android:layout_marginRight="10dp"
+                    android:background="@drawable/radio"
+                    android:button="@null"
+                    android:gravity="center"
+                    android:textColor="@color/black"
+                    android:text="100" />
+
+                <RadioButton
+                    android:id="@+id/dialogfragment_button_baowei"
+                    android:layout_width="60dp"
+                    android:layout_height="35dp"
+                    android:background="@drawable/radio"
+                    android:button="@null"
+                    android:gravity="center"
+                    android:textColor="@color/black"
+                    android:text="包尾" />
+
+
+            </com.example.em.mi.Fragment_5.RadioGroupEx>
+
+        </LinearLayout>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="35dp"
+            android:textColor="@color/black"
+            android:gravity="center"
+            android:text="共50欢乐豆（中奖率：1.39%）"/>
+
+
+
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="40dp"
+                android:textColor="@color/white"
+                android:layout_marginLeft="50dp"
+                android:layout_marginRight="50dp"
+                android:layout_marginTop="10dp"
+                android:background="@drawable/add_shouhuodizhi_button"
+                android:text="确定"/>
+
+
+
+    </LinearLayout>
+
+
+</LinearLayout>

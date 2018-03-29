@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@color/white"
+    android:orientation="vertical">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:background="@color/darkorange">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_centerVertical="true"
+            android:text="我"
+            android:textColor="@color/white"
+            android:textSize="24sp" />
+
+        <ImageView
+            android:id="@+id/my_set"
+            android:layout_width="35dp"
+            android:layout_height="35dp"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:layout_marginRight="15dp"
+            android:src="@mipmap/bg_set" />
+
+        <ImageView
+            android:id="@+id/my_nav_view"
+            android:layout_width="30dp"
+            android:layout_height="30dp"
+            android:layout_centerVertical="true"
+            android:layout_marginRight="30dp"
+            android:clickable="true"
+            android:layout_toLeftOf="@+id/my_set"
+            android:src="@mipmap/bg_message" />
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="160dp"
+        android:background="@color/colorAccent">
+
+        <RelativeLayout
+            android:id="@+id/smallblackground"
+            android:layout_width="match_parent"
+            android:layout_height="180dp"
+            android:padding="10dp">
+
+            <com.example.em.mi.JL.com.CircleImageView
+                android:id="@+id/head"
+                android:layout_width="70dp"
+                android:layout_height="70dp"
+                android:layout_marginTop="20dp"
+                android:src="@mipmap/test" />
+
+            <ImageView
+                android:id="@+id/grade"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:layout_alignTop="@+id/head"
+                android:layout_marginLeft="10dp"
+                android:layout_toRightOf="@+id/head"
+                android:src="@mipmap/ic_launcher" />
+
+            <TextView
+                android:id="@+id/username"
+                android:layout_width="70dp"
+                android:layout_height="wrap_content"
+                android:layout_alignBottom="@+id/grade"
+                android:layout_marginBottom="5dp"
+                android:layout_toRightOf="@+id/grade"
+                android:textSize="16dp"
+                android:text="用户001" />
+
+
+            <TextView
+                android:id="@+id/useid"
+                android:layout_width="70dp"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/grade"
+                android:layout_marginBottom="5dp"
+                android:layout_marginLeft="20dp"
+                android:layout_toRightOf="@+id/head"
+                android:textSize="16dp"
+                android:text="ID:11111" />
+
+            <Button
+                android:id="@+id/topups"
+                android:layout_width="80dp"
+                android:layout_height="30dp"
+                android:layout_alignParentRight="true"
+                android:layout_marginTop="40dp"
+                android:background="@drawable/btn_bolder"
+                android:text="@string/btntext"
+                android:textColor="#8A5A07" />
+        </RelativeLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:orientation="horizontal">
+
+            <include layout="@layout/fragment_5_body_in" />
+        </LinearLayout>
+    </RelativeLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <LinearLayout
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:gravity="center">
+
+            <Button
+                android:id="@+id/f5_lianxikefu"
+                android:layout_width="120dp"
+                android:layout_height="wrap_content"
+                android:background="@null"
+                android:drawableLeft="@mipmap/bg_service"
+                android:text="@string/service" />
+        </LinearLayout>
+
+        <View
+            android:layout_width="1dp"
+            android:layout_height="48dp"
+            android:background="@color/bgwhlie" />
+
+        <LinearLayout
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:gravity="center">
+
+            <Button
+                android:id="@+id/f5_yijianjiaqun"
+                android:layout_width="120dp"
+                android:layout_height="wrap_content"
+                android:background="@null"
+                android:drawableLeft="@mipmap/bg_myqq"
+                android:text="@string/group" />
+        </LinearLayout>
+    </LinearLayout>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="10dp"
+        android:background="@color/bgwhlie" />
+<!--参与记录 开始往下-->
+    <include android:id="@+id/myinclue" layout="@layout/fragment_5_body2_in" />
+
+</LinearLayout>

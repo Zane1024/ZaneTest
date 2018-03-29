@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:background="@color/darkorange">
+        <ImageView
+            android:id="@+id/participation_back"
+            android:layout_width="35dp"
+            android:layout_height="35dp"
+            android:layout_centerVertical="true"
+            android:src="@mipmap/bg_back" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_centerVertical="true"
+            android:text="参与记录"
+            android:textColor="@color/white"
+            android:textSize="24sp" />
+
+    </RelativeLayout>
+
+    <LinearLayout
+        android:id="@+id/home_flow_llay"
+        android:layout_below="@id/home_topbar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal" >
+
+        >
+
+
+        <TextView
+            android:id="@+id/participation_tab_all"
+            android:layout_width="0dp"
+            android:layout_height="40dp"
+            android:layout_weight="1"
+            android:gravity="center"
+            android:text="全部"
+            android:textColor="@color/orange"
+            android:background="@drawable/tv_xiahuaxian"
+            android:textSize="15dip" />
+
+
+
+
+
+        <TextView
+            android:id="@+id/participation_tab_now"
+            android:layout_width="0dp"
+            android:layout_height="40dp"
+            android:layout_weight="1"
+            android:gravity="center"
+            android:text="进行中"
+            android:textColor="#000000"
+            android:background="@drawable/tv_xiahuaxian2"
+            android:textSize="15dip" />
+
+
+        <TextView
+            android:id="@+id/participation_tab_open"
+            android:layout_width="0dp"
+            android:layout_height="40dp"
+            android:layout_weight="1"
+            android:gravity="center"
+            android:text="已揭晓"
+            android:background="@drawable/tv_xiahuaxian2"
+            android:textColor="#000000"
+            android:textSize="15dip" />
+
+
+
+    </LinearLayout>
+
+    <FrameLayout
+        android:id="@+id/participation_frameLayout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+    </FrameLayout>
+</LinearLayout>

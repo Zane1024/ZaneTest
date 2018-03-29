@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:paddingRight="10dp"
+    android:paddingBottom="5dp">
+
+    <ImageView
+        android:id="@+id/class_lv_item_iv"
+        android:layout_width="0dp"
+        android:layout_height="80dp"
+        android:layout_weight="2"
+        android:src="@mipmap/ic_launcher"
+        />
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="0dp"
+        android:layout_weight="4"
+        android:layout_height="wrap_content">
+
+            <TextView
+                android:id="@+id/class_lv_item_tv_title"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:ellipsize="end"
+                android:layout_gravity="center"
+                android:text="淘宝卡1000元"
+                android:singleLine="true"
+                android:textSize="12dp"
+                />
+
+            <ProgressBar
+                android:id="@+id/class_lv_item_ProgressBar"
+                android:layout_width="match_parent"
+                android:layout_gravity="center"
+                android:layout_height="5dp"
+                android:max="100"
+                android:progress="40"
+                android:secondaryProgress="90"
+                style="?android:attr/progressBarStyleHorizontal"
+                android:progressDrawable="@drawable/progressbar_color"/>
+            <RelativeLayout
+                android:layout_marginTop="10dp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                >
+                <TextView
+                    android:id="@+id/homg_tv"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="总需："/>
+
+                <TextView
+                    android:id="@+id/class_lv_item_tv_sum"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_toRightOf="@id/homg_tv"
+                    android:text="6666"/>
+
+                <TextView
+                    android:id="@+id/class_lv_item_tv_surplus"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentRight="true"
+                    android:textColor="@color/orange"
+                    android:text="655"/>
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_toLeftOf="@id/class_lv_item_tv_surplus"
+                    android:text="剩余："/>
+            </RelativeLayout>
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+
+
+                <Button
+                    android:id="@+id/class_lv_item_btn_canyu"
+                    android:layout_marginTop="10dp"
+                    android:layout_width="70dp"
+                    android:layout_height="30dp"
+                    android:text="立即参与"
+                    android:textSize="12dp"
+                    android:layout_alignParentRight="true"
+                    android:layout_marginRight="15dp"
+                    android:textColor="@color/darkorange"
+                    android:layout_gravity="center_horizontal"
+                    android:background="@drawable/home_corner_button_selector"
+                    />
+                <Button
+                    android:id="@+id/class_lv_item_btn_jiaru"
+                    android:layout_marginTop="10dp"
+                    android:layout_width="70dp"
+                    android:layout_height="30dp"
+                    android:text="加入清单"
+                    android:textSize="12dp"
+                    android:layout_toLeftOf="@id/class_lv_item_btn_canyu"
+                    android:layout_marginRight="15dp"
+                    android:textColor="@color/darkorange"
+                    android:layout_gravity="center_horizontal"
+                    android:background="@drawable/home_corner_button_selector"
+                    />
+
+            </RelativeLayout>
+    </LinearLayout>
+
+</LinearLayout>

@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "F:\\demo\\yiyuangou\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi-v4\\c.jpg",
+        "source": "F:\\demo\\yiyuangou\\app\\src\\main\\res\\mipmap-hdpi\\c.jpg"
+    },
+    {
+        "merged": "F:\\demo\\yiyuangou\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi-v4\\d.jpg",
+        "source": "F:\\demo\\yiyuangou\\app\\src\\main\\res\\mipmap-hdpi\\d.jpg"
+    },
+    {
+        "merged": "F:\\demo\\yiyuangou\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi-v4\\a.jpg",
+        "source": "F:\\demo\\yiyuangou\\app\\src\\main\\res\\mipmap-hdpi\\a.jpg"
+    },
+    {
+        "merged": "F:\\demo\\yiyuangou\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi-v4\\b.jpg",
+        "source": "F:\\demo\\yiyuangou\\app\\src\\main\\res\\mipmap-hdpi\\b.jpg"
+    },
+    {
+        "merged": "F:\\demo\\yiyuangou\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi-v4\\e.jpg",
+        "source": "F:\\demo\\yiyuangou\\app\\src\\main\\res\\mipmap-hdpi\\e.jpg"
+    },
+    {
+        "merged": "F:\\demo\\yiyuangou\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi-v4\\test.jpg",
+        "source": "F:\\demo\\yiyuangou\\app\\src\\main\\res\\mipmap-hdpi\\test.jpg"
+    }
+]

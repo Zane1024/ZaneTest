@@ -1,0 +1,150 @@
+[
+    {
+        "merged": "F:\\demo\\yiyuangou\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic_launcher_round.png",
+        "source": "F:\\demo\\yiyuangou\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "F:\\demo\\yiyuangou\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\guide_3.png",
+        "source": "F:\\demo\\yiyuangou\\app\\src\\main\\res\\mipmap-xhdpi\\guide_3.png"
+    },
+    {
+        "merged": "F:\\demo\\yiyuangou\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\tab_guide_round_enabled.png",
+        "source": "F:\\demo\\yiyuangou\\app\\src\\main\\res\\mipmap-xhdpi\\tab_guide_round_enabled.png"
+    },
+    {
+        "merged": "F:\\demo\\yiyuangou\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\tab_guide_round_disabled.png",
+        "source": "F:\\demo\\yiyuangou\\app\\src\\main\\res\\mipmap-xhdpi\\tab_guide_round_disabled.png"
+    },
+    {
+        "merged": "F:\\demo\\yiyuangou\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\cha.png",
+        "source": "F:\\demo\\yiyuangou\\app\\src\\main\\res\\mipmap-xhdpi\\cha.png"
+    },
+    {
+        "merged": "F:\\demo\\yiyuangou\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\bg_srared.png",
+        "source": "F:\\demo\\yiyuangou\\app\\src\\main\\res\\mipmap-xhdpi\\bg_srared.png"
+    },
+    {
+        "merged": "F:\\demo\\yiyuangou\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\main_tab_item_user_focus.png",
+        "source": "F:\\demo\\yiyuangou\\app\\src\\main\\res\\mipmap-xhdpi\\main_tab_item_user_focus.png"
+    },
+    {
+        "merged": "F:\\demo\\yiyuangou\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\bg_repass.png",
+        "source": "F:\\demo\\yiyuangou\\app\\src\\main\\res\\mipmap-xhdpi\\bg_repass.png"
+    },
+    {
+        "merged": "F:\\demo\\yiyuangou\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\bg_resure.png",
+        "source": "F:\\demo\\yiyuangou\\app\\src\\main\\res\\mipmap-xhdpi\\bg_resure.png"
+    },
+    {
+        "merged": "F:\\demo\\yiyuangou\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\bg_back.png",
+        "source": "F:\\demo\\yiyuangou\\app\\src\\main\\res\\mipmap-xhdpi\\bg_back.png"
+    },
+    {
+        "merged": "F:\\demo\\yiyuangou\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\fanhui.png",
+        "source": "F:\\demo\\yiyuangou\\app\\src\\main\\res\\mipmap-xhdpi\\fanhui.png"
+    },
+    {
+        "merged": "F:\\demo\\yiyuangou\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\tab_selected_pressed_holo.png",
+        "source": "F:\\demo\\yiyuangou\\app\\src\\main\\res\\mipmap-xhdpi\\tab_selected_pressed_holo.png"
+    },
+    {
+        "merged": "F:\\demo\\yiyuangou\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\shuxie.png",
+        "source": "F:\\demo\\yiyuangou\\app\\src\\main\\res\\mipmap-xhdpi\\shuxie.png"
+    },
+    {
+        "merged": "F:\\demo\\yiyuangou\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\bg_4.png",
+        "source": "F:\\demo\\yiyuangou\\app\\src\\main\\res\\mipmap-xhdpi\\bg_4.png"
+    },
+    {
+        "merged": "F:\\demo\\yiyuangou\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\bg_reemail.png",
+        "source": "F:\\demo\\yiyuangou\\app\\src\\main\\res\\mipmap-xhdpi\\bg_reemail.png"
+    },
+    {
+        "merged": "F:\\demo\\yiyuangou\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\moren.png",
+        "source": "F:\\demo\\yiyuangou\\app\\src\\main\\res\\mipmap-xhdpi\\moren.png"
+    },
+    {
+        "merged": "F:\\demo\\yiyuangou\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\yilingqu.png",
+        "source": "F:\\demo\\yiyuangou\\app\\src\\main\\res\\mipmap-xhdpi\\yilingqu.png"
+    },
+    {
+        "merged": "F:\\demo\\yiyuangou\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\zhifubao.png",
+        "source": "F:\\demo\\yiyuangou\\app\\src\\main\\res\\mipmap-xhdpi\\zhifubao.png"
+    },
+    {
+        "merged": "F:\\demo\\yiyuangou\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\bg_search.png",
+        "source": "F:\\demo\\yiyuangou\\app\\src\\main\\res\\mipmap-xhdpi\\bg_search.png"
+    },
+    {
+        "merged": "F:\\demo\\yiyuangou\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\bg_user.png",
+        "source": "F:\\demo\\yiyuangou\\app\\src\\main\\res\\mipmap-xhdpi\\bg_user.png"
+    },
+    {
+        "merged": "F:\\demo\\yiyuangou\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\weixin.png",
+        "source": "F:\\demo\\yiyuangou\\app\\src\\main\\res\\mipmap-xhdpi\\weixin.png"
+    },
+    {
+        "merged": "F:\\demo\\yiyuangou\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\gouwuche.png",
+        "source": "F:\\demo\\yiyuangou\\app\\src\\main\\res\\mipmap-xhdpi\\gouwuche.png"
+    },
+    {
+        "merged": "F:\\demo\\yiyuangou\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\bg_empty.png",
+        "source": "F:\\demo\\yiyuangou\\app\\src\\main\\res\\mipmap-xhdpi\\bg_empty.png"
+    },
+    {
+        "merged": "F:\\demo\\yiyuangou\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic_launcher.png",
+        "source": "F:\\demo\\yiyuangou\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "F:\\demo\\yiyuangou\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\main_tab_item_user_normal.png",
+        "source": "F:\\demo\\yiyuangou\\app\\src\\main\\res\\mipmap-xhdpi\\main_tab_item_user_normal.png"
+    },
+    {
+        "merged": "F:\\demo\\yiyuangou\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\page_indicator.png",
+        "source": "F:\\demo\\yiyuangou\\app\\src\\main\\res\\mipmap-xhdpi\\page_indicator.png"
+    },
+    {
+        "merged": "F:\\demo\\yiyuangou\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\page_indicator_focused.png",
+        "source": "F:\\demo\\yiyuangou\\app\\src\\main\\res\\mipmap-xhdpi\\page_indicator_focused.png"
+    },
+    {
+        "merged": "F:\\demo\\yiyuangou\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\set_pass.png",
+        "source": "F:\\demo\\yiyuangou\\app\\src\\main\\res\\mipmap-xhdpi\\set_pass.png"
+    },
+    {
+        "merged": "F:\\demo\\yiyuangou\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\main_tab_item_bg_normal.png",
+        "source": "F:\\demo\\yiyuangou\\app\\src\\main\\res\\mipmap-xhdpi\\main_tab_item_bg_normal.png"
+    },
+    {
+        "merged": "F:\\demo\\yiyuangou\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\myinfoyin.png",
+        "source": "F:\\demo\\yiyuangou\\app\\src\\main\\res\\mipmap-xhdpi\\myinfoyin.png"
+    },
+    {
+        "merged": "F:\\demo\\yiyuangou\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\libao.png",
+        "source": "F:\\demo\\yiyuangou\\app\\src\\main\\res\\mipmap-xhdpi\\libao.png"
+    },
+    {
+        "merged": "F:\\demo\\yiyuangou\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\vip5.png",
+        "source": "F:\\demo\\yiyuangou\\app\\src\\main\\res\\mipmap-xhdpi\\vip5.png"
+    },
+    {
+        "merged": "F:\\demo\\yiyuangou\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\commhome.png",
+        "source": "F:\\demo\\yiyuangou\\app\\src\\main\\res\\mipmap-xhdpi\\commhome.png"
+    },
+    {
+        "merged": "F:\\demo\\yiyuangou\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\bg_passimg.png",
+        "source": "F:\\demo\\yiyuangou\\app\\src\\main\\res\\mipmap-xhdpi\\bg_passimg.png"
+    },
+    {
+        "merged": "F:\\demo\\yiyuangou\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\bg_rephone.png",
+        "source": "F:\\demo\\yiyuangou\\app\\src\\main\\res\\mipmap-xhdpi\\bg_rephone.png"
+    },
+    {
+        "merged": "F:\\demo\\yiyuangou\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\qq.png",
+        "source": "F:\\demo\\yiyuangou\\app\\src\\main\\res\\mipmap-xhdpi\\qq.png"
+    },
+    {
+        "merged": "F:\\demo\\yiyuangou\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\bg_renosure.png",
+        "source": "F:\\demo\\yiyuangou\\app\\src\\main\\res\\mipmap-xhdpi\\bg_renosure.png"
+    }
+]

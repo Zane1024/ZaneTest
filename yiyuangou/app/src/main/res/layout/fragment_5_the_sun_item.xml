@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:layout_width="match_parent"
+              android:layout_height="wrap_content"
+              android:orientation="vertical">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:orientation="horizontal">
+
+        <TextView
+            android:id="@+id/f5_the_sun_item_ri"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="5dp"
+            android:layout_marginLeft="20dp"
+            android:textSize="16dp"
+            android:text="03"/>
+
+        <TextView
+            android:id="@+id/f5_the_sun_item_yue"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="5dp"
+            android:textSize="10dp"
+            android:text="7月"/>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="20dp"
+            android:layout_marginRight="10dp"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/f5_the_sun_item_tilie"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:ellipsize="end"
+                android:singleLine="true"
+                android:text="获得商品：五福临门 广东大米 优质湛江 大米 4kg"/>
+
+            <TextView
+                android:id="@+id/f5_the_sun_item_contxt"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:maxEms="20"
+                android:singleLine="true"
+                android:ellipsize="end"
+                android:text="种种因素，让绝大多数湛江人从没有吃到过真正的“鲜米”——粒粒好米，新鲜可口，甚至不用菜就能吃一大碗，这是一些品尝过高级优质米的专家形容的体验。
+    "/>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:orientation="horizontal">
+
+                <ImageView
+                    android:id="@+id/f5_the_sun_item_img1"
+                    android:layout_width="0dip"
+                    android:layout_height="100dp"
+                    android:layout_weight="1"
+                    android:background="@null"
+                    android:layout_marginRight="10dp"
+                    android:src="@mipmap/welcome"/>
+
+                <ImageView
+                    android:id="@+id/f5_the_sun_item_img2"
+                    android:layout_width="0dip"
+                    android:layout_height="100dp"
+                    android:background="@null"
+                    android:src="@mipmap/bianxing"
+                    android:layout_marginRight="10dp"
+                    android:layout_weight="1"/>
+
+                <ImageView
+                    android:id="@+id/f5_the_sun_item_img3"
+                    android:layout_width="0dip"
+                    android:layout_height="100dp"
+                    android:background="@null"
+                    android:layout_marginRight="20dp"
+                    android:src="@mipmap/test"
+                    android:layout_weight="1"/>
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:orientation="horizontal">
+
+                <TextView
+                    android:id="@+id/f5_the_sun_item_dai"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:text="待审核"/>
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:gravity="right">
+
+                    <Button
+                        android:id="@+id/f5_the_sun_item_oncemore"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:textColor="@color/white"
+                        android:background="@drawable/add_shouhuodizhi_button"
+                        android:text="再试一次"/>
+
+                </LinearLayout>
+
+            </LinearLayout>
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="0.1dp"
+        android:layout_marginLeft="20dp"
+        android:background="#c5c5c5"/>
+
+</LinearLayout>
